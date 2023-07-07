@@ -21,5 +21,5 @@ public class SanPhamSO : ScriptableObject
         {
             SanPham[i].ID = i;
         }
-    }s
+    }
 }
