@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
   m_Name: "S\u1EA3n Ph\u1EA9m"
   m_EditorClassIdentifier: 
+  name: 
+  infor: 
+  folderPath: Assets/App13
   SanPham:
   - ID: 0
     anh: {fileID: 21300000, guid: 64693b52c4e0b7b46b6d5a7d3364fa09, type: 3}
@@ -48,4 +51,52 @@ MonoBehaviour:
     anhHai: {fileID: 0}
     thongTin: 
     gia: "300.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 6
+    anh: {fileID: 21300000, guid: 8dd5042628653174ba99f43a062b43d7, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "290.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 7
+    anh: {fileID: 21300000, guid: d5c4cf20078e82b4db8350bfada97a87, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "19.000.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 8
+    anh: {fileID: 21300000, guid: c1a87900430506f41a4d475caa74ee03, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "740.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 9
+    anh: {fileID: 21300000, guid: bba57bb5b27b2fa429ed235fcbcdaedc, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "1.000.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 10
+    anh: {fileID: 21300000, guid: ca79a35c8d4632d4e9b2f53b3611928f, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 11
+    anh: {fileID: 21300000, guid: 018d1f5177959eb48801cc02493cc4e1, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "310.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 12
+    anh: {fileID: 21300000, guid: 22e7fa50a664b044995ed7326243e659, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "13.000.000 \u0111"
+    name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
+  - ID: 13
+    anh: {fileID: 21300000, guid: 0ce4e8e43066c1b45a8de08f43ccdf97, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "19.000.000 \u0111"
     name: "V\u1EE3t C\u1EA7u L\xF4ng The 3rd Game Diamond"
